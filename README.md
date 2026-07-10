@@ -1,4 +1,4 @@
-  # AI-Resume-Analyzer-Interview-Preparation-Platform bv  
+  # AI-Resume-Analyzer-Interview-Preparation-Platform 
  
    
  
